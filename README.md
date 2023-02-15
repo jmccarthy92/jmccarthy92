@@ -4,7 +4,7 @@ Hi, I'm James and I'm a software engineer from Queens, New York. I currently wor
 
 I've been writing code for over 7 years and I'm still learning every day. I still have the same passion to grow and learn as I did when I first embarked on this path. I love to share my passion and knowledge so feel free to connect with me.
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/james-mccarthy-9ab411142/)[<img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jmccarthyns92@gmail.com)[<img src="https://custom-icon-badges.demolab.com/badge/-Resume-blue?style=for-the-badge&logo=download&logoColor=white">](https://google.com)[<img src="https://custom-icon-badges.demolab.com/badge/-Schedule a Chat-yellow?style=for-the-badge&logo=calendar&logoColor=black">](https://cal.com/jmccarthy92/30min)
+[<img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/james-mccarthy-9ab411142/)[<img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jmccarthyns92@gmail.com)[<img src="https://custom-icon-badges.demolab.com/badge/-Resume-blue?style=for-the-badge&logo=download&logoColor=white">](https://github.com/jmccarthy92/jmccarthy92/raw/main/resume/resume.pdf)[<img src="https://custom-icon-badges.demolab.com/badge/-Schedule a Chat-yellow?style=for-the-badge&logo=calendar&logoColor=black">](https://cal.com/jmccarthy92/30min)
  
  ----
   
