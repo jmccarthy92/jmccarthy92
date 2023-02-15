@@ -8,6 +8,8 @@ I've been writing code for over 7 years and I'm still learning every day. I stil
   <img  alt="Abhishek Naidu | Twitter" width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" />
 </a><a href="https://www.linkedin.com/in/james-mccarthy-9ab411142/">
   <img alt="Abhishek's LinkedIN" width="32px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /></a>
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Resume-blue?style=for-the-badge&logo=download&logoColor=white">](google.com)[<img src="https://custom-icon-badges.demolab.com/badge/-Schedule a Chat-yellow?style=for-the-badge&logo=calendar&logoColor=black">](https://cal.com/jmccarthy92/30min)
  
  ----
   
