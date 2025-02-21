@@ -2,7 +2,7 @@
 
 Hi, I'm James and I'm a software engineer from Queens, New York. I currently work full-time as a Lead Backend Engineer @ [BRKFST.IO ](https://www.brkfst.io/). I primarily use TypeScript as my main language for creating solutions. I mostly build apps for the web, but also enjoy programming on all platforms. I focus on providing simplicity for both users and developers. In the words of Robert C. Martin, “*It is not the language that makes programs appear simple. It is the programmer that makes the language appear simple!*”.
 
-I've been writing code for over 7 years and I'm still learning every day. I still have the same passion for growing and learning as I did when I first embarked on this path. I love to share my passion and knowledge so feel free to connect with me.
+I've been writing code for over a decade and I'm still learning every day. I still have the same passion for growing and learning as I did when I first embarked on this path. I love to share my passion and knowledge so feel free to connect with me.
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/james-mccarthy-9ab411142/)[<img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jmccarthyns92@gmail.com)[<img src="https://custom-icon-badges.demolab.com/badge/-Resume-blue?style=for-the-badge&logo=download&logoColor=white">](https://github.com/jmccarthy92/jmccarthy92/raw/main/resume/resume.pdf)[<img src="https://custom-icon-badges.demolab.com/badge/-Schedule a Chat-yellow?style=for-the-badge&logo=calendar&logoColor=black">](https://cal.com/jmccarthy92/30min)
  
